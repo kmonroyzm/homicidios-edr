@@ -1,0 +1,11 @@
+# datos INEGI (no subir)
+edr_2020/
+edr_2024/
+*.zip
+
+# basura
+.Rhistory
+.RData
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
